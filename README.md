@@ -19,10 +19,10 @@ It intelligently chooses which files to use for context, so it has enough contex
 ## Usage
 The app is extension is free, open source, and MIT licensed. However, you will need an OpenAI API key (which you can set in the extension settings in VS Code - if you're not sure how, I'll leave it to you to Google it for nostalgia purposes, since you won't be doing much Googling once you get the assistant working!)
 
-The app works best with `gpt-4`, but it was designed so the core functionality (the chat interface) would work with `gpt-3.5-turbo` (i.e. ChatGPT). Some of the more complex tasks, such as generating edits and picking files, will probably be beyond the capabilities of ChatGPT, but the codebase doesn't (currentlY) distinguish between the two... good luck, little AI!
+The app works best with `gpt-4`, but it was designed so the core functionality (the chat interface) would work with `gpt-3.5-turbo` (i.e. ChatGPT). Some of the more complex tasks, such as generating edits and picking files, will probably be beyond the capabilities of ChatGPT, but the codebase doesn't (currently) distinguish between the two... good luck, little AI!
 
 ## FAQ
-**This is just Copilot X but (better/worse/open source/OpenAI-dependent/...**
+**This is just Copilot X but (better/worse/open source/OpenAI-dependent/...)**
 
 Yes, this was inspired by Copilot X, but only in the sense that I saw it and thought "hey, someone should actually make that", because clearly Microsoft is in no hurry to do so...
 
